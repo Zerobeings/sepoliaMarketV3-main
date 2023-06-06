@@ -279,7 +279,7 @@ export default function TokenPage() {
   //Initialize the loctok
   const { isLoaded } = useJsApiLoader({
     id: 'loctok',
-    googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_API as string
+    googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_API as string,
   });
 
 
