@@ -138,7 +138,7 @@ const fetchNFTs = async() => {
             </div>
           </div>
         </div>                 
-        </div>
+      </div>
     </div>
   );
 };
